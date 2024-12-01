@@ -1,0 +1,3 @@
+Problem: Monitor the CPU Utilization of an EC2 Instance
+Objective:
+Set up AWS CloudWatch to monitor the CPU utilization of an EC2 instance. Create a CloudWatch Alarm that will notify you when the CPU utilization exceeds 80% for more than 5 minutes.
